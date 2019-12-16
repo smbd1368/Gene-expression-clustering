@@ -1,0 +1,5 @@
+"source","term_name","term_id","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"GO:MF","unfolded protein binding","GO:0051082","0.03348356632478442","1.4751682916378985","82","16","4","4386","YDR168W,YJL034W,YCL043C,YPL240C"
+"GO:MF","protein disulfide isomerase activity","GO:0003756","0.049861112596586","1.3022380349143379","7","16","2","4386","YML130C,YCL043C"
+"GO:MF","intramolecular oxidoreductase activity, transposing S-S bonds","GO:0016864","0.049861112596586","1.3022380349143379","7","16","2","4386","YML130C,YCL043C"
+"GO:BP","protein folding","GO:0006457","0.012596251691574484","1.8997586701083848","109","17","5","5067","YDR168W,YML130C,YCL043C,YPL240C,YOR027W"
